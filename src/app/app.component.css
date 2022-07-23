@@ -1,0 +1,22 @@
+.mainDiv{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 10px;
+    /* height: 100vh; */
+}
+
+.listDiv{
+    display: flex;
+    flex-direction: column;
+}
+
+.singleDiv{
+display: flex;
+flex-direction:row;
+list-style: none;
+justify-content: space-between;
+font-family: fantasy;
+font-weight: 500;
+}
